@@ -1,3 +1,3 @@
 # Hello world
 
-Project description here.
+This repository is here to allow BLISS to test GitHub and integrations.
